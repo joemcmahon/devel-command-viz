@@ -1,0 +1,7 @@
+Revision history for Devel-Command-Viz
+
+0.0.1  Wed Aug 31 11:59:39 2005
+       Initial independent release.
+       Extracted from Devel-Command to make installation
+       of that module simpler.
+
