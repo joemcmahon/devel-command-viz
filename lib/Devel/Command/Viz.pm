@@ -8,7 +8,7 @@ use File::Temp qw(tempfile);
 
 use base qw(Devel::Command);
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub command {
   my ($arg) = (shift =~ /viz\s+(.*)/);

@@ -11,6 +11,7 @@ WriteMakefile(
     PREREQ_PM => {
         'Test::More' => 0,
         'Devel::Command' => 0,
+        'GraphViz::Data::Structure' => 0,
     },
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean               => { FILES => 'Devel-Command-Viz-*' },
